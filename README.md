@@ -19,7 +19,7 @@ Follow these instructions to set up and run the project locally.
 
 ### Prerequisites
 
-- **Node.js** (version 14 or higher)
+- **Node.js** v18.17.0
 - **TypeScript**
 - **Microsoft SQL Server**
 - **Confluent Kafka** (Kafka broker and Zookeeper)
